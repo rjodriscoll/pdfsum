@@ -26,7 +26,7 @@ Run the app: Navigate to the pdfs directory and run app.py:
     cd pdfs
     python app.py
 ```
-    The Gradio app will start, and you'll see a link to access the chatbot in your browser (usually http://127.0.0.1:7860/).
+The Gradio app will start, and you'll see a link to access the chatbot in your browser (usually http://127.0.0.1:7860/).
 
 Now you can use the chatbot by entering your questions in the text input field, and the chatbot will provide answers based on the content of the PDF file you placed in the file folder.
 
